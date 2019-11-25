@@ -9,12 +9,16 @@
 	You can put your custom css code here: 
 -------------------------------------------------------*/
 
-.col-xs-12 {
+/* .col-xs-12 {
   width: 90% !important;
-}
+} */
 
 .align-items__center {
   display: block !important;
   width: 90vw !important;
 }
 
+.slider__inner {
+
+  width: 90vw !important;
+}
